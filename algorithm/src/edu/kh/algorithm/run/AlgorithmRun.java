@@ -27,7 +27,7 @@ public class AlgorithmRun {
                 //}
                 
             }
-            System.out.println(ans[4]);
+            System.out.println(ans);
         }
         
 		AlgorithmService service = new AlgorithmService();
